@@ -118,7 +118,7 @@
 		</plugins>
 	</build>
 	<scm>
-		<connection>https://github.com/psureshk/hw4-psureshk.git</connection>
-		<developerConnection>https://github.com/psureshk/hw4-psureshk.git</developerConnection>
+		<connection>scm:git:git@github.com:psureshk/hw4-psureshk.git</connection>
+		<developerConnection>scm:git:git@github.com:psureshk/hw4-psureshk.git</developerConnection>
 	</scm>
 </project>
